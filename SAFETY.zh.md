@@ -1,6 +1,6 @@
 # 安全
 
-[English](SAFETY.md) | 中文
+[English](SAFETY.md) | 中文 1
 
 ## 实验性状态
 
